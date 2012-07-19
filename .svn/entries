@@ -1,0 +1,34 @@
+10
+
+dir
+83
+svn://192.168.1.212/project/herox/code/client/ios/demo
+svn://192.168.1.212/project/herox
+
+
+
+2012-04-06T10:32:29.902623Z
+80
+tfp
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+71bd83bd-1d9b-4d10-87a6-7caf9f59090c
+
+effectTest
+dir
+
+effectTest.xcodeproj
+dir
+
