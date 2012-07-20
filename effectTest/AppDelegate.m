@@ -112,8 +112,8 @@
 	[self removeStartupFlicker];
 	
 	// Run the intro Scene
-	//[[CCDirector sharedDirector] runWithScene: [HelloWorldLayer scene]];
-     [[CCDirector sharedDirector] runWithScene:[CCAnimationSpriteLayer scene]];
+	[[CCDirector sharedDirector] runWithScene: [HelloWorldLayer scene]];
+    // [[CCDirector sharedDirector] runWithScene:[CCAnimationSpriteLayer scene]];
    //[[CCDirector sharedDirector] runWithScene:[CCHexLayer scene]];
 }
 
