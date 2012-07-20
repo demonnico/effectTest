@@ -19,7 +19,7 @@
 
 //#define HEX_COL   SCREEN_WIDTH/HEX_WIDTH
 //#define HEX_ROW   SCREEN_HEIGHT/(HEX_HEIGHT*3/4)
-
+ 
 #define HEX_COL   14
 #define HEX_ROW   10
 
