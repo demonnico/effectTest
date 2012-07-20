@@ -97,7 +97,7 @@
 	return NO;
 }
 
-//
+// 
 // This callback only will be called when GAME_AUTOROTATION == kGameAutorotationUIViewController
 //
 #if GAME_AUTOROTATION == kGameAutorotationUIViewController
